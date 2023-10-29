@@ -4,143 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ddbcff6a317eb34b",
+        "id": "1a04dd263cf412d1",
         "type": "tabs",
         "children": [
           {
-            "id": "e5e914a51ae8a99a",
+            "id": "9173de4916a1bfda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Projects/ft_printf/고민들.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1383aa32db22ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/born2beroot/필요한 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1b901b97d526c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "가상 머신.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eb0ee4f30cd3cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "파티션과 LVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "504728f7e9492309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "파티션과 LVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e66de9f4dda0547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sudo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49d485bff3c3b046",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "firewall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91bb99d7fc4b6d7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SELINUX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bd1996996b1755d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1dde28a2d4bbb129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SELINUX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45b6bab9297da3e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "리눅스.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 695.2837608147304,
+                  "y": 1274.404690424748,
+                  "zoom": -1.1476603190104164
+                }
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "파티션과 LVM.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "파티션과 LVM.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "파티션과 LVM.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -268,14 +150,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eb0ee4f30cd3cae",
+  "active": "9173de4916a1bfda",
   "lastOpenFiles": [
+    "파티션과 LVM.md",
+    "Untitled.canvas",
     "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
     "Excalidraw/Drawing 2023-10-27 12.48.15.excalidraw.md",
     "Excalidraw/Drawing 2023-10-21 20.41.14.excalidraw.md",
     "firewall.md",
     "Projects/born2beroot/필요한 개념.md",
-    "파티션과 LVM.md",
     "리눅스.md",
     "가상 머신.md",
     "가변인자.md",
@@ -288,7 +171,6 @@
     "SSH.md",
     "Projects/born2beroot/subject 요구사항.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Port.md",
     "Pasted image 20231029121938.png",
     "Pasted image 20231018093816.png",
