@@ -11,15 +11,8 @@
             "id": "9173de4916a1bfda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 695.2837608147304,
-                  "y": 1274.404690424748,
-                  "zoom": -1.1476603190104164
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -88,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "61fa959fe87705c0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9173de4916a1bfda",
+  "active": "61fa959fe87705c0",
   "lastOpenFiles": [
-    "파티션과 LVM.md",
+    "2023-10-27.md",
+    "2023-10-30.md",
     "Untitled.canvas",
+    "파티션과 LVM.md",
     "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
     "Excalidraw/Drawing 2023-10-27 12.48.15.excalidraw.md",
     "Excalidraw/Drawing 2023-10-21 20.41.14.excalidraw.md",
@@ -180,7 +179,6 @@
     "Pasted image 20231021113514.png",
     "Pasted image 20231018093341.png",
     "Pasted image 20231006155908.png",
-    "2023-10-27.md",
     "Excalidraw/Drawing 2023-10-18 10.24.26.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Pasted image 20231025212421.png",
