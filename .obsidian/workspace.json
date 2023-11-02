@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endian.md",
+                "file": "시스템 콜.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selinux",
+                "query": "open",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endian.md",
+                "file": "시스템 콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "endian.md",
+                "file": "시스템 콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "endian.md"
+                "file": "시스템 콜.md"
               }
             }
           },
@@ -170,8 +171,9 @@
   },
   "active": "3e95da869cdf46eb",
   "lastOpenFiles": [
-    "Projects/so_long/고민들.md",
+    "file descriptor.md",
     "endian.md",
+    "Projects/so_long/고민들.md",
     "Projects/born2beroot/subject 요구사항.md",
     "Projects/so_long",
     "test.md",
@@ -200,7 +202,6 @@
     "Pasted image 20231018093816.png",
     "Projects/ft_printf/고민들.md",
     "Projects/get_next_line/subject 요구사항.md",
-    "Projects/get_next_line/고민들.md",
     "Pasted image 20231021113514.png",
     "Pasted image 20231018093341.png",
     "Pasted image 20231006155908.png",
