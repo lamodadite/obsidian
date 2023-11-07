@@ -11,9 +11,11 @@
             "id": "b2a0f45256dfd0d6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md"
+                "file": "Projects/so_long/고민들.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
+                "file": "Projects/so_long/고민들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
+                "file": "Projects/so_long/고민들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md"
+                "file": "Projects/so_long/고민들.md"
               }
             }
           },
@@ -167,8 +169,8 @@
   },
   "active": "b2a0f45256dfd0d6",
   "lastOpenFiles": [
-    "Projects/so_long/고민들.md",
     "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
+    "Projects/so_long/고민들.md",
     "Excalidraw/Drawing 2023-10-27 12.48.15.excalidraw.md",
     "Projects/get_next_line/고민들.md",
     "Projects/get_next_line/subject 요구사항.md",
