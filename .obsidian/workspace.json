@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "659dae801092da05",
+            "id": "3a1b84f237747f5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,43 @@
             }
           },
           {
-            "id": "3e95da869cdf46eb",
+            "id": "659dae801092da05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/so_long/고민들.md",
+                "file": "Projects/push_swap/정렬 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "704b226af671f5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Insertion Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf1bda0fa868dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Selection Sort.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Counting Sort.md",
+                "file": "Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Counting Sort.md",
+                "file": "Insertion Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Counting Sort.md"
+                "file": "Insertion Sort.md"
               }
             }
           },
@@ -180,14 +204,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "659dae801092da05",
+  "active": "704b226af671f5aa",
   "lastOpenFiles": [
-    "Pasted image 20231107204417.png",
     "Projects/push_swap/정렬 알고리즘.md",
+    "Insertion Sort.md",
     "Counting Sort.md",
+    "Selection Sort.md",
+    "Projects/so_long/고민들.md",
+    "Pasted image 20231108125611.png",
+    "Pasted image 20231108100610.png",
+    "Pasted image 20231107204417.png",
     "Pasted image 20231107204328.png",
     "Pasted image 20231107204142.png",
-    "Projects/so_long/고민들.md",
     "Projects/push_swap",
     "Projects/Untitled.md",
     "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
@@ -212,16 +240,12 @@
     "가변인자.md",
     "sudo.md",
     "RPM.md",
-    "SELINUX.md",
     "Untitled 1.canvas",
     "Pasted image 20231029121938.png",
     "Pasted image 20231018093816.png",
     "Pasted image 20231021113514.png",
     "Pasted image 20231018093341.png",
     "Pasted image 20231006155908.png",
-    "Pasted image 20231025212421.png",
-    "Pasted image 20231025201339.png",
-    "Pasted image 20231025195455.png",
     "Projects/born2beroot",
     "Excalidraw",
     "Projects/ft_printf",
