@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "463bf8bb9cacb8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quick Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "704b226af671f5aa",
             "type": "leaf",
             "state": {
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insertion Sort.md",
+                "file": "Quick Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insertion Sort.md",
+                "file": "Quick Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insertion Sort.md"
+                "file": "Quick Sort.md"
               }
             }
           },
@@ -204,11 +216,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "704b226af671f5aa",
+  "active": "463bf8bb9cacb8c6",
   "lastOpenFiles": [
-    "Projects/push_swap/정렬 알고리즘.md",
+    "Pasted image 20231108204631.png",
+    "Pasted image 20231108202702.png",
     "Insertion Sort.md",
+    "Quick Sort.md",
+    "Projects/push_swap/정렬 알고리즘.md",
     "Counting Sort.md",
+    "Pasted image 20231108160507.png",
     "Selection Sort.md",
     "Projects/so_long/고민들.md",
     "Pasted image 20231108125611.png",
@@ -238,14 +254,10 @@
     "리눅스.md",
     "가상 머신.md",
     "가변인자.md",
-    "sudo.md",
-    "RPM.md",
     "Untitled 1.canvas",
     "Pasted image 20231029121938.png",
     "Pasted image 20231018093816.png",
     "Pasted image 20231021113514.png",
-    "Pasted image 20231018093341.png",
-    "Pasted image 20231006155908.png",
     "Projects/born2beroot",
     "Excalidraw",
     "Projects/ft_printf",
