@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/so_long/고민들.md",
+                "file": "Projects/push_swap/정렬 알고리즘.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "659dae801092da05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Counting Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/so_long/고민들.md",
+                "file": "Counting Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/so_long/고민들.md",
+                "file": "Counting Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/so_long/고민들.md"
+                "file": "Counting Sort.md"
               }
             }
           },
@@ -167,10 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2a0f45256dfd0d6",
+  "active": "659dae801092da05",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
+    "Pasted image 20231107204417.png",
+    "Projects/push_swap/정렬 알고리즘.md",
+    "Counting Sort.md",
+    "Pasted image 20231107204328.png",
+    "Pasted image 20231107204142.png",
     "Projects/so_long/고민들.md",
+    "Projects/push_swap",
+    "Projects/Untitled.md",
+    "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
     "Excalidraw/Drawing 2023-10-27 12.48.15.excalidraw.md",
     "Projects/get_next_line/고민들.md",
     "Projects/get_next_line/subject 요구사항.md",
@@ -193,11 +213,7 @@
     "sudo.md",
     "RPM.md",
     "SELINUX.md",
-    "정적 변수.md",
-    "운영체제.md",
-    "SSH.md",
     "Untitled 1.canvas",
-    "Port.md",
     "Pasted image 20231029121938.png",
     "Pasted image 20231018093816.png",
     "Pasted image 20231021113514.png",
@@ -207,8 +223,6 @@
     "Pasted image 20231025201339.png",
     "Pasted image 20231025195455.png",
     "Projects/born2beroot",
-    "Pasted image 20231021113703.png",
-    "Pasted image 20231021113602.png",
     "Excalidraw",
     "Projects/ft_printf",
     "Untitled 2.canvas",
