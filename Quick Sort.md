@@ -11,6 +11,45 @@
 ## 단점
 - 특정 조건하에 성능이 급격히 하락
 - 재귀를 사용하지 못하는 환경일 경우 구현이 매우 복잡해짐
+## 정렬 로직
+1. 임의의 피벗을 선택 (왼쪽, 중간, 오른쪽 등)
+2. 피벗을 기준으로 양쪽에서 피벗보다 큰 값, 혹은 작은 값을 찾음
+3. 양 방향에서 찾은 두 원소를 교환
+4. 왼쪽에서 탐색하는 위치와 오른쪽에서 탐색하는 위치가 엇갈리지 않는 동안 2번으로 돌아가 위 과정 반복
+5. 엇갈린 기점을 기준으로 두 개의 부분리스트로 나누어 1번으로 돌아가 해당 부분리스트의 길이가 1이 아닐 대까지 1번 과정 반복 (Divide : 분할)
+6. 인접한 부분리스트끼리 합침 (Conqure : 정복)
+- 왼쪽 피벗 선택 방식
+- ![[Pasted image 20231108211115.png]]
+
+## 코드
+~~~C
+int *quick_sort(int *list, int start, int end)
+{
+	int pivot;
+	int hi;
+	int lo;
+	
+	if (start >= end)
+		return (list);
+	pivot = list[start];
+	lo = start;
+	hi = end;
+	while (lo < hi)
+	{
+		while (list[hi] > pivot && lo < hi)
+			hi--;
+		while (list[lo] <= pivot && lo < hi)
+			lo++;
+		swap(list, hi, lo);
+	}
+	swap(list, hi, start);
+	quick_sort(list, start, lo - 1);
+	quick_sort(list, lo + 1, end);
+	return (list);
+}
+~~~
+	
+
 ## nlogn이 보장되는 이유
 ![[Pasted image 20231108202702.png]]
 - 만약 이상적으로 피벗이 중앙에 위치되어 리스트를 절반으로 나누면, 이진트리 형태가 됨
