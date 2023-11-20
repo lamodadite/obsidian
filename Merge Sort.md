@@ -20,3 +20,44 @@
 	- ![[Pasted image 20231108221810.png]]
 	- ![[Pasted image 20231108222858.png]]
 ## 코드
+~~~C
+void merge(int *list, int *sorted, int lo, int mid, int hi)
+{
+	int l = lo;
+	int r = mid + 1;
+	int idx = lo;
+	
+	while(l <= mid && r <= hi)
+	{
+		if(list[l] <= list[r])
+			sorted[idx++] = list[l++];
+		else
+			sorted[idx++] = list[r++];
+	}
+	if (l > mid)
+	{
+		while(r <= hi)
+			sorted[idx++] = list[r++];
+	}
+	else
+	{
+		while(l <= mid)
+			sorted[idx++] = list[l++];
+	}
+	for (int i = lo; i <= hi; i++)
+	list[i] = sorted[i];
+}
+
+  
+
+void merge_sort(int *list, int *sorted, int lo, int hi)
+
+{
+	if (lo == hi)
+		return ;
+	int mid = (lo + hi) / 2;
+	merge_sort(list, sorted, lo, mid);
+	merge_sort(list, sorted, mid + 1, hi);
+	merge(list, sorted, lo, mid, hi);
+}
+~~~
