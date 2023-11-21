@@ -44,6 +44,66 @@
             }
           },
           {
+            "id": "cfc8cf306cb9262d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/pipex/필요한 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b7441373d8fb1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redirection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "016220b372bb3bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/pipex/필요한 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1e2089ae8d1895a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pipe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c54d4c4d8818c3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redirection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1678dc344edc5205",
             "type": "leaf",
             "state": {
@@ -104,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/born2beroot/필요한 개념.md",
+                "file": "Pipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/born2beroot/필요한 개념.md",
+                "file": "Pipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/born2beroot/필요한 개념.md"
+                "file": "Pipe.md"
               }
             }
           },
@@ -241,47 +301,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "067fd62541008fee",
+  "active": "d1e2089ae8d1895a",
   "lastOpenFiles": [
-    "리눅스.md",
-    "Projects/born2beroot/필요한 개념.md",
-    "가상 머신.md",
-    "Insertion Sort.md",
-    "Merge Sort.md",
-    "Heap Sort.md",
-    "Pasted image 20231109104215.png",
-    "Pasted image 20231109104208.png",
-    "Pasted image 20231109103921.png",
-    "Projects/push_swap/정렬 알고리즘.md",
-    "Pasted image 20231108222858.png",
-    "Pasted image 20231108221810.png",
-    "Pasted image 20231108221512.png",
-    "Quick Sort.md",
-    "Shell Sort.md",
-    "Pasted image 20231108211808.png",
-    "Pasted image 20231108211115.png",
+    "Pasted image 20231121142615.png",
+    "Pasted image 20231121142549.png",
+    "Pasted image 20231121142148.png",
+    "Pasted image 20231121142145.png",
+    "Pasted image 20231121141402.png",
+    "Pasted image 20231121141400.png",
+    "IPC.md",
+    "Pasted image 20231121132353.png",
+    "Pipe.md",
+    "Projects/pipex/필요한 개념.md",
+    "Redirection.md",
+    "Pasted image 20231121124938.png",
+    "Pasted image 20231121124830.png",
+    "Pasted image 20231121124725.png",
+    "byte padding.md",
     "Counting Sort.md",
-    "Selection Sort.md",
-    "Pasted image 20231108204631.png",
-    "Pasted image 20231108202702.png",
-    "Projects/so_long/고민들.md",
-    "Projects/push_swap",
-    "Projects/Untitled.md",
-    "Excalidraw/Drawing 2023-10-27 12.35.22.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-27 12.48.15.excalidraw.md",
-    "Projects/get_next_line/고민들.md",
-    "Projects/get_next_line/subject 요구사항.md",
-    "시스템 콜.md",
+    "default argument promotion.md",
+    "ERROR처리 함수.md",
     "file descriptor.md",
-    "endian.md",
-    "Projects/born2beroot/subject 요구사항.md",
-    "Projects/so_long",
-    "test.md",
-    "2023-10-27.md",
-    "2023-10-30.md",
-    "Untitled.canvas",
+    "firewall.md",
+    "Heap Sort.md",
+    "Merge Sort.md",
+    "Insertion Sort.md",
+    "Port.md",
+    "Quick Sort.md",
+    "Selection Sort.md",
+    "Shell Sort.md",
+    "가변인자.md",
+    "리눅스.md",
+    "시스템 콜.md",
     "파티션과 LVM.md",
-    "Excalidraw/Drawing 2023-10-21 20.41.14.excalidraw.md",
+    "정적 변수.md",
+    "가상 머신.md",
+    "SELINUX.md",
+    "Pasted image 20231121115357.png",
+    "Projects/pipex",
+    "Untitled.md",
+    "Projects/push_swap",
+    "Projects/so_long",
+    "Untitled.canvas",
     "Untitled 1.canvas",
     "Projects/born2beroot",
     "Excalidraw",
@@ -290,7 +351,6 @@
     "Projects/get_next_line",
     "Projects/libft",
     "Projects",
-    "test",
-    "obsidian"
+    "test"
   ]
 }
