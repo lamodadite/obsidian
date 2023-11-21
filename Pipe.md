@@ -26,4 +26,8 @@
 > 	- 성공시 0 리턴
 > 	- 실패시 -1 리턴
 
-##
+## Pipe I/O
+- pipe가 full일 때 write 시도하면 blocking
+- pipe가 empty일 때 read 시도하면 blocking
+- write size가 PIPE_BUF보다 작으면 atomic, 크면 interleaved 될 수 있음
+	- interleaved : 데이터가 분리돼서 넣어질 수도 있음

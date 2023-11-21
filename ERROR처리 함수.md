@@ -7,7 +7,7 @@ void perror(const char *_string_)
 ```
 
 - 오류 메세지를 STDERR로 출력하는 함수 
-- _string_ 이 NULL 또는 NULL을 가리키지 않으면  **_string : error에 해당하는 메세지\n_** 와 같이 STDERR에 출력됨
+- _string_ 이 NULL 또는 NULL을 가리키지 않으면  **_string : error에 해당하는 메세지_** 와 같이 STDERR에 출력됨
 
 > 이 함수는 확인하고 싶은 라이브러리 함수 뒤에 바로 사용해야 한다.
 > 

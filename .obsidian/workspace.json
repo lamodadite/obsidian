@@ -71,9 +71,17 @@
             "id": "016220b372bb3bde",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6469c1185e7ea009",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/pipex/필요한 개념.md",
+                "file": "ERROR처리 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +238,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +254,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +275,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pipe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -301,8 +305,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e2089ae8d1895a",
+  "active": "016220b372bb3bde",
   "lastOpenFiles": [
+    "Pipe.md",
+    "Projects/pipex/필요한 개념.md",
+    "ERROR처리 함수.md",
     "Pasted image 20231121142615.png",
     "Pasted image 20231121142549.png",
     "Pasted image 20231121142148.png",
@@ -311,8 +318,6 @@
     "Pasted image 20231121141400.png",
     "IPC.md",
     "Pasted image 20231121132353.png",
-    "Pipe.md",
-    "Projects/pipex/필요한 개념.md",
     "Redirection.md",
     "Pasted image 20231121124938.png",
     "Pasted image 20231121124830.png",
@@ -320,7 +325,6 @@
     "byte padding.md",
     "Counting Sort.md",
     "default argument promotion.md",
-    "ERROR처리 함수.md",
     "file descriptor.md",
     "firewall.md",
     "Heap Sort.md",
@@ -337,7 +341,6 @@
     "정적 변수.md",
     "가상 머신.md",
     "SELINUX.md",
-    "Pasted image 20231121115357.png",
     "Projects/pipex",
     "Untitled.md",
     "Projects/push_swap",
