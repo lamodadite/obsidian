@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "Projects/born2beroot/필요한 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "Projects/born2beroot/필요한 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heap Sort.md",
+                "file": "Projects/born2beroot/필요한 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heap Sort.md"
+                "file": "Projects/born2beroot/필요한 개념.md"
               }
             }
           },
@@ -243,25 +243,27 @@
   },
   "active": "067fd62541008fee",
   "lastOpenFiles": [
+    "리눅스.md",
+    "Projects/born2beroot/필요한 개념.md",
+    "가상 머신.md",
+    "Insertion Sort.md",
+    "Merge Sort.md",
+    "Heap Sort.md",
     "Pasted image 20231109104215.png",
     "Pasted image 20231109104208.png",
     "Pasted image 20231109103921.png",
     "Projects/push_swap/정렬 알고리즘.md",
-    "Heap Sort.md",
-    "Merge Sort.md",
     "Pasted image 20231108222858.png",
     "Pasted image 20231108221810.png",
     "Pasted image 20231108221512.png",
     "Quick Sort.md",
     "Shell Sort.md",
-    "Insertion Sort.md",
     "Pasted image 20231108211808.png",
     "Pasted image 20231108211115.png",
     "Counting Sort.md",
     "Selection Sort.md",
     "Pasted image 20231108204631.png",
     "Pasted image 20231108202702.png",
-    "Pasted image 20231108160507.png",
     "Projects/so_long/고민들.md",
     "Projects/push_swap",
     "Projects/Untitled.md",
@@ -280,8 +282,6 @@
     "Untitled.canvas",
     "파티션과 LVM.md",
     "Excalidraw/Drawing 2023-10-21 20.41.14.excalidraw.md",
-    "firewall.md",
-    "Projects/born2beroot/필요한 개념.md",
     "Untitled 1.canvas",
     "Projects/born2beroot",
     "Excalidraw",
