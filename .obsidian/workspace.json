@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "cfc8cf306cb9262d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/pipex/필요한 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b7441373d8fb1f0",
             "type": "leaf",
             "state": {
@@ -71,8 +59,12 @@
             "id": "016220b372bb3bde",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "시스템 콜.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -172,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -218,7 +210,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,6 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pipe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,6 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pipe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +270,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pipe.md"
+              }
             }
           },
           {
@@ -305,8 +302,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "016220b372bb3bde",
+  "active": "d1e2089ae8d1895a",
   "lastOpenFiles": [
+    "Redirection.md",
+    "시스템 콜.md",
     "Pipe.md",
     "Projects/pipex/필요한 개념.md",
     "ERROR처리 함수.md",
@@ -318,7 +317,6 @@
     "Pasted image 20231121141400.png",
     "IPC.md",
     "Pasted image 20231121132353.png",
-    "Redirection.md",
     "Pasted image 20231121124938.png",
     "Pasted image 20231121124830.png",
     "Pasted image 20231121124725.png",
@@ -336,7 +334,6 @@
     "Shell Sort.md",
     "가변인자.md",
     "리눅스.md",
-    "시스템 콜.md",
     "파티션과 LVM.md",
     "정적 변수.md",
     "가상 머신.md",
