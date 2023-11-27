@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pipe.md",
+                "file": "시스템 콜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pipe.md",
+                "file": "시스템 콜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pipe.md"
+                "file": "시스템 콜.md"
               }
             }
           },
@@ -302,13 +302,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1e2089ae8d1895a",
+  "active": "016220b372bb3bde",
   "lastOpenFiles": [
     "Redirection.md",
     "시스템 콜.md",
+    "ERROR처리 함수.md",
     "Pipe.md",
     "Projects/pipex/필요한 개념.md",
-    "ERROR처리 함수.md",
     "Pasted image 20231121142615.png",
     "Pasted image 20231121142549.png",
     "Pasted image 20231121142148.png",
