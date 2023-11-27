@@ -61,7 +61,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "시스템 콜.md",
+                "file": "Projects/pipex/필요한 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e08f54b8001824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로세스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab5d1d38cf95b76c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pipe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90878bc92856d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0762ecad5c1efee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로세스.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,8 +258,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -231,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "시스템 콜.md",
+                "file": "프로세스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "시스템 콜.md",
+                "file": "프로세스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "시스템 콜.md"
+                "file": "프로세스.md"
               }
             }
           },
@@ -302,20 +349,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "016220b372bb3bde",
+  "active": "83e08f54b8001824",
   "lastOpenFiles": [
+    "Projects/pipex/필요한 개념.md",
+    "프로세프로세스.md",
+    "Projects/libft/object representation.md",
+    "프로세스.md",
+    "Pipe.md",
+    "IPC.md",
     "Redirection.md",
+    "Projects/born2beroot/필요한 개념.md",
     "시스템 콜.md",
     "ERROR처리 함수.md",
-    "Pipe.md",
-    "Projects/pipex/필요한 개념.md",
     "Pasted image 20231121142615.png",
     "Pasted image 20231121142549.png",
     "Pasted image 20231121142148.png",
     "Pasted image 20231121142145.png",
     "Pasted image 20231121141402.png",
     "Pasted image 20231121141400.png",
-    "IPC.md",
     "Pasted image 20231121132353.png",
     "Pasted image 20231121124938.png",
     "Pasted image 20231121124830.png",
@@ -336,10 +387,7 @@
     "리눅스.md",
     "파티션과 LVM.md",
     "정적 변수.md",
-    "가상 머신.md",
-    "SELINUX.md",
     "Projects/pipex",
-    "Untitled.md",
     "Projects/push_swap",
     "Projects/so_long",
     "Untitled.canvas",
