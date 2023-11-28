@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "94a9d13efff86592",
+        "id": "dd4e9423c51f0bc7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a1b84f237747f5d",
+            "id": "c0f8fee902023eaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Counting Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "659dae801092da05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/push_swap/정렬 알고리즘.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "067fd62541008fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/born2beroot/필요한 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7441373d8fb1f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redirection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016220b372bb3bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/pipex/필요한 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83e08f54b8001824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab5d1d38cf95b76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pipe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d90878bc92856d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0762ecad5c1efee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로세스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6469c1185e7ea009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ERROR처리 함수.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e2089ae8d1895a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pipe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c54d4c4d8818c3b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redirection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1678dc344edc5205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Merge Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dcf03f0b8f990f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quick Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b57791bb2e9805fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shell Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "704b226af671f5aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Insertion Sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbf1bda0fa868dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Selection Sort.md",
+                "file": "POSIX Pthread API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로세스.md",
+                "file": "POSIX Pthread API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로세스.md",
+                "file": "POSIX Pthread API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로세스.md"
+                "file": "POSIX Pthread API.md"
               }
             }
           },
@@ -349,12 +156,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83e08f54b8001824",
+  "active": "c0f8fee902023eaa",
   "lastOpenFiles": [
+    "Projects/philosophers/필요한 개념.md",
+    "POSIX Pthread API.md",
+    "스레드.md",
+    "Pasted image 20231128212113.png",
+    "Pasted image 20231128212109.png",
+    "Pasted image 20231128212107.png",
+    "프로세스.md",
+    "Projects/philosophers",
     "Projects/pipex/필요한 개념.md",
     "프로세프로세스.md",
     "Projects/libft/object representation.md",
-    "프로세스.md",
     "Pipe.md",
     "IPC.md",
     "Redirection.md",
@@ -368,9 +182,6 @@
     "Pasted image 20231121141402.png",
     "Pasted image 20231121141400.png",
     "Pasted image 20231121132353.png",
-    "Pasted image 20231121124938.png",
-    "Pasted image 20231121124830.png",
-    "Pasted image 20231121124725.png",
     "byte padding.md",
     "Counting Sort.md",
     "default argument promotion.md",
@@ -384,9 +195,6 @@
     "Selection Sort.md",
     "Shell Sort.md",
     "가변인자.md",
-    "리눅스.md",
-    "파티션과 LVM.md",
-    "정적 변수.md",
     "Projects/pipex",
     "Projects/push_swap",
     "Projects/so_long",
@@ -398,7 +206,6 @@
     "Untitled 2.canvas",
     "Projects/get_next_line",
     "Projects/libft",
-    "Projects",
-    "test"
+    "Projects"
   ]
 }
