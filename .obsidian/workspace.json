@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "Projects/philosophers/필요한 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0798cc85de185b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스레드 동기화.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "스레드 동기화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "스레드 동기화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POSIX Pthread API.md"
+                "file": "스레드 동기화.md"
               }
             }
           },
@@ -147,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -156,32 +170,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0f8fee902023eaa",
+  "active": "0798cc85de185b36",
   "lastOpenFiles": [
+    "Pasted image 20231129133927.png",
+    "Pasted image 20231129133526.png",
+    "Pasted image 20231129133521.png",
+    "Pasted image 20231129133513.png",
     "Projects/philosophers/필요한 개념.md",
+    "스레드 동기화.md",
     "POSIX Pthread API.md",
     "스레드.md",
+    "시스템 콜.md",
+    "프로세스.md",
+    "프로세프로세스.md",
     "Pasted image 20231128212113.png",
     "Pasted image 20231128212109.png",
     "Pasted image 20231128212107.png",
-    "프로세스.md",
     "Projects/philosophers",
     "Projects/pipex/필요한 개념.md",
-    "프로세프로세스.md",
     "Projects/libft/object representation.md",
     "Pipe.md",
     "IPC.md",
     "Redirection.md",
     "Projects/born2beroot/필요한 개념.md",
-    "시스템 콜.md",
     "ERROR처리 함수.md",
     "Pasted image 20231121142615.png",
     "Pasted image 20231121142549.png",
     "Pasted image 20231121142148.png",
     "Pasted image 20231121142145.png",
-    "Pasted image 20231121141402.png",
-    "Pasted image 20231121141400.png",
-    "Pasted image 20231121132353.png",
     "byte padding.md",
     "Counting Sort.md",
     "default argument promotion.md",
@@ -193,8 +209,6 @@
     "Port.md",
     "Quick Sort.md",
     "Selection Sort.md",
-    "Shell Sort.md",
-    "가변인자.md",
     "Projects/pipex",
     "Projects/push_swap",
     "Projects/so_long",
