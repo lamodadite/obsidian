@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스레드.md",
+                "file": "POSIX Pthread API.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스레드.md",
+                "file": "POSIX Pthread API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스레드.md",
+                "file": "POSIX Pthread API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스레드.md"
+                "file": "POSIX Pthread API.md"
               }
             }
           },
@@ -172,6 +172,7 @@
   },
   "active": "0798cc85de185b36",
   "lastOpenFiles": [
+    "스레드.md",
     "스레드 동기화.md",
     "Pasted image 20231129133927.png",
     "Pasted image 20231129133526.png",
@@ -179,7 +180,6 @@
     "Pasted image 20231129133513.png",
     "Projects/philosophers/필요한 개념.md",
     "POSIX Pthread API.md",
-    "스레드.md",
     "시스템 콜.md",
     "프로세스.md",
     "프로세프로세스.md",
