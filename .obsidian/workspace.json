@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "스레드.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POSIX Pthread API.md",
+                "file": "스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POSIX Pthread API.md"
+                "file": "스레드.md"
               }
             }
           },
@@ -172,6 +172,11 @@
   },
   "active": "0798cc85de185b36",
   "lastOpenFiles": [
+    "sudo.md",
+    "가변인자.md",
+    "Shell Sort.md",
+    "RPM.md",
+    "POSIX Pthread API.md",
     "스레드.md",
     "스레드 동기화.md",
     "Pasted image 20231129133927.png",
@@ -179,7 +184,6 @@
     "Pasted image 20231129133521.png",
     "Pasted image 20231129133513.png",
     "Projects/philosophers/필요한 개념.md",
-    "POSIX Pthread API.md",
     "시스템 콜.md",
     "프로세스.md",
     "프로세프로세스.md",
@@ -205,9 +209,6 @@
     "Heap Sort.md",
     "Merge Sort.md",
     "Insertion Sort.md",
-    "Port.md",
-    "Quick Sort.md",
-    "Selection Sort.md",
     "Projects/pipex",
     "Projects/push_swap",
     "Projects/so_long",
