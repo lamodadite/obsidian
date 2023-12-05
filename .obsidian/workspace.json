@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "e6cfa16a1b40d456",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0563a2cb9bd63ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "세마포어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5ec1fb12f9e06af",
             "type": "leaf",
             "state": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,9 +222,10 @@
   "lastOpenFiles": [
     "스레드 동기화.md",
     "세마포어.md",
-    "뮤텍스.md",
+    "inode.md",
     "Projects/philosophers/필요한 개념.md",
     "POSIX Pthread API.md",
+    "뮤텍스.md",
     "Port.md",
     "스레드.md",
     "sudo.md",
@@ -232,7 +257,6 @@
     "Counting Sort.md",
     "default argument promotion.md",
     "file descriptor.md",
-    "firewall.md",
     "Projects/pipex",
     "Projects/push_swap",
     "Projects/so_long",
